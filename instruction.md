@@ -52,4 +52,4 @@
 * **часть 1** - https://habr.com/ru/post/541258/
 * **часть 2** - https://habr.com/ru/post/542616/
 
-pfkbdftv bycnherwb. yf githubgit branch
+* Инструкция залита на GitHUB
